@@ -40,7 +40,7 @@ By accessing this repository, you acknowledge that you have read and understood 
 - [S-O-L-I-D](https://github.com/yamilt351/nerdoteca/tree/main/SOLID)
   - [princpios solid devexperto](https://github.com/yamilt351/nerdoteca/blob/main/SOLID/principios-solid-devexperto.pdf) 
   - [2019 03 AyDS - Principios SOLID](https://github.com/yamilt351/nerdoteca/blob/main/SOLID/2019%2003%20AyDS%20-%20Principios%20SOLID.pdf)
-  - [The SOLID Principles](#The-SOLID-Principles)
+  - [The SOLID Principles](https://github.com/yamilt351/nerdoteca/blob/main/SOLID/The_SOLID_Principles.pdf)
 
 - [Frameworks](#Frameworks)
 
