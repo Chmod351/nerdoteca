@@ -14,7 +14,9 @@ By accessing this repository, you acknowledge that you have read and understood 
 
 # Books
 
-- [HTML CSS](#HTML-CSS) -[html css](#html-css) -[css](#css)
+- [HTML CSS](#HTML-CSS) 
+  - [html css](#html-css) 
+  - [css](#css)
 - [Fundamentos de la programacion](#Fundamentos-de-la-programacion)
 
   - [Introduccion a la programacion](#Introduccion-a-la-programacion)
@@ -46,7 +48,8 @@ By accessing this repository, you acknowledge that you have read and understood 
 
 - [Javascript](#Javascript) 
   - [JavaScript Quick Reference Card](#JavaScript-Quick-Reference-Card)
-  - [Javascript (Guía Rápida)](#Javascript-Guía Rápida) - [intro-js](#intro-js)
+  - [Javascript Guía Rápida](#Javascript-Guía-Rápida) 
+  - [intro-js](#intro-js)
   - [JavaScript Programmers Reference](#JavaScript-Programmers-Reference)
   - [Essential Javascript A Javascript Tutorial](#Essential-Javascript-A-Javascript-Tutorial)
 
