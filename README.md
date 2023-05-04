@@ -38,7 +38,7 @@ By accessing this repository, you acknowledge that you have read and understood 
   - [Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides-Design Patterns\_ Elements of Reusable Object-Oriented Software -Addison-Wesley Professional (1994)](https://github.com/yamilt351/nerdoteca/blob/main/patrones%20de%20dise%C3%B1o/Erich%20Gamma%2C%20Richard%20Helm%2C%20Ralph%20Johnson%2C%20John%20M.%20Vlissides-Design%20Patterns_%20Elements%20of%20Reusable%20Object-Oriented%20Software%20-Addison-Wesley%20Professional%20(1994).pdf)
 
 - [S-O-L-I-D](https://github.com/yamilt351/nerdoteca/tree/main/SOLID)
-  - [princpios solid devexperto](#princpios-solid-devexperto) 
+  - [princpios solid devexperto](https://github.com/yamilt351/nerdoteca/blob/main/SOLID/principios-solid-devexperto.pdf) 
   - [2019 03 AyDS - Principios SOLID](#2019-03-AyDS-Principios-SOLID)
   - [The SOLID Principles](#The-SOLID-Principles)
 
