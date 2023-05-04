@@ -30,7 +30,7 @@ By accessing this repository, you acknowledge that you have read and understood 
   - [The Art of Computers Programming](https://github.com/yamilt351/nerdoteca/blob/main/algoritmos/The%20Art%20of%20Computer%20Programming%20-%20Vol%201.pdf)
 
 - [Programación Orientada a Objetos](https://github.com/yamilt351/nerdoteca/tree/main/POO) 
-  - [Introduccion a la Programacion Orientada a Objetos](#Introduccion-a-la-Programacion-Orientada-a-Objetos)
+  - [Introduccion a la Programacion Orientada a Objetos](https://github.com/yamilt351/nerdoteca/blob/main/POO/Introduccion%20a%20la%20Programacion%20Orientada%20a%20Objetos.pdf)
   - [introducion a la progrmacion orientado a objetos](#introducion-a-la-progrmacion-orientado-a-objetos)
 
 - [Patrones de Diseño](#Patrones-de-Diseño)
