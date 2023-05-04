@@ -94,7 +94,7 @@ By accessing this repository, you acknowledge that you have read and understood 
 - [Microservicios](https://github.com/yamilt351/nerdoteca/tree/main/microservices)
   - [microservices-on-aws](https://github.com/yamilt351/nerdoteca/blob/main/microservices/microservices-on-aws.pdf)
 
-- [Introduccion a la Arquitectura de Software](#Introduccion-a-la-Arquitectura-de-Software) 
+- [Introduccion a la Arquitectura de Software](https://github.com/yamilt351/nerdoteca/tree/main/arquitectura%20de%20software) 
   - [Unidad 1](#Unidad-1) 
   - [Unidad 2](#Unidad-2) 
   - [Unidad 3](#Unidad-3) 
