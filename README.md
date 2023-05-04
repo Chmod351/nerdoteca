@@ -104,4 +104,4 @@ By accessing this repository, you acknowledge that you have read and understood 
   - [Unidad 7](https://github.com/yamilt351/nerdoteca/blob/main/arquitectura%20de%20software/Unidad_7.pdf)
   - [Unidad 8](https://github.com/yamilt351/nerdoteca/blob/main/arquitectura%20de%20software/Unidad_8.pdf) 
   - [Unidad 9](https://github.com/yamilt351/nerdoteca/blob/main/arquitectura%20de%20software/Unidad_9.pdf)
-  - [Unidad 10](#Unidad-10)
+  - [Unidad 10](https://github.com/yamilt351/nerdoteca/blob/main/arquitectura%20de%20software/Unidad_10.pdf)
