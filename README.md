@@ -68,7 +68,7 @@ By accessing this repository, you acknowledge that you have read and understood 
   - [Utilidad y funcionamiento de las bases de datos NoSQL](https://github.com/yamilt351/nerdoteca/blob/main/nosql/Utilidad%20y%20funcionamiento%20de%20las%20bases%20de%20datos%20NoSQL.pdf)
 
 - [Protocolos Web](https://github.com/yamilt351/nerdoteca/tree/main/protocolos%20web) 
-  - [PROTOCOLOS TCP/IP DE INTERNET](#PROTOCOLOS-TCP-IP-DE-INTERNET)
+  - [PROTOCOLOS TCP/IP DE INTERNET](https://github.com/yamilt351/nerdoteca/blob/main/protocolos%20web/sep_art51.pdf)
   - [Capitulo 1 Introduccion](#Capitulo-1)
   - [Capitulo 2 DISEÑO GLOBAL DEL PROYECTO](#Capitulo-2)
   - [Capitulo 3 J2ME](#Capitulo-3) - [Capitulo 4 XML](#Capitulo-4)
