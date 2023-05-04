@@ -14,7 +14,7 @@ By accessing this repository, you acknowledge that you have read and understood 
 
 # Books
 
-- [HTML CSS](#HTML-CSS) 
+- [HTML CSS](https://github.com/yamilt351/nerdoteca/tree/main/html%20y%20css) 
   - [html css](#html-css) 
   - [css](#css)
 - [Fundamentos de la programacion](#Fundamentos-de-la-programacion)
@@ -44,7 +44,8 @@ By accessing this repository, you acknowledge that you have read and understood 
 
 - [Frameworks](#Frameworks)
 
-- [Compilers](#Compilers) -[Compilers - Principles Techniques and Tools](#Compilers-Principles-Techniques-and-Tools)
+- [Compilers](#Compilers) 
+- [Compilers - Principles Techniques and Tools](#Compilers-Principles-Techniques-and-Tools)
 
 - [Javascript](#Javascript) 
   - [JavaScript Quick Reference Card](#JavaScript-Quick-Reference-Card)
@@ -79,6 +80,8 @@ By accessing this repository, you acknowledge that you have read and understood 
 
   - [UnitTesting](#UnitTesting)
   - [UnitTest](#UnitTest)
+  - [IntegrationTest](#IntegrationTest)
+  - [Integration](#Integration)
   - [Software Testing Automation](#Software-Testing-Automation)
 
 - [Escalabilidad](#Escalabilidad)
