@@ -89,7 +89,7 @@ By accessing this repository, you acknowledge that you have read and understood 
   - [Software Testing Automation](https://github.com/yamilt351/nerdoteca/blob/main/test/Software-Testing-Automation.pdf)
 
 - [Escalabilidad](https://github.com/yamilt351/nerdoteca/tree/main/escalabilidad)
-  - [escalabilidad y optimizacion](#escalabilidad-y-optimizacion)
+  - [escalabilidad y optimizacion](https://github.com/yamilt351/nerdoteca/blob/main/escalabilidad/escalabilidad%20y%20optimizacion.pdf)
 
 - [Microservicios](#Microservicios)
   - [microservices-on-aws](#microservices-on-aws)
