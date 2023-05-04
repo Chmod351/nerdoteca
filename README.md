@@ -63,7 +63,7 @@ By accessing this repository, you acknowledge that you have read and understood 
   - [Inside Microsoft SQL Server 2008 T-SQL Programming](https://github.com/yamilt351/nerdoteca/blob/main/sql/Inside%20Microsoft%20SQL%20Server%202008%20T-SQL%20Programming.pdf)
 
 - [NoSQL](https://github.com/yamilt351/nerdoteca/tree/main/nosql) 
-  - [Bases de datos NoSQL](#Bases-de-datos-NoSQL)
+  - [Bases de datos NoSQL](https://github.com/yamilt351/nerdoteca/blob/main/nosql/Bases%20de%20datos%20NoSQL-%20Caracteristicas.pdf)
   - [Bases de datos NoSQL Introduccion](https://github.com/yamilt351/nerdoteca/blob/main/nosql/Bases%20de%20datos%20NoSQL-%20Introduccion.pdf) 
   - [Utilidad y funcionamiento de las bases de datos NoSQL](#Utilidad-y-funcionamiento-de-las-bases-de-datos-NoSQL)
 
