@@ -78,7 +78,7 @@ By accessing this repository, you acknowledge that you have read and understood 
   - [Capitulo 7 Conceptos de seguridad.](https://github.com/yamilt351/nerdoteca/blob/main/protocolos%20web/07%20Capitulo%207%20Conceptos%20de%20seguridad.pdf) 
   - [Capitulo 8 Introduccion a SAML](https://github.com/yamilt351/nerdoteca/blob/main/protocolos%20web/08%20Capitulo%208%20Introduccion%20a%20SAML.pdf)
   - [Capitulo 9 SAML](https://github.com/yamilt351/nerdoteca/blob/main/protocolos%20web/09%20Capitulo%209%20SAML.pdf) 
-  - [Capitulo 10 Seguridad en SAML](#Capitulo-10)
+  - [Capitulo 10 Seguridad en SAML](https://github.com/yamilt351/nerdoteca/blob/main/protocolos%20web/10%20Capitulo%2010%20Seguridad%20en%20SAML.pdf)
 
 - [Testing](#Testing)
 
