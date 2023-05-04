@@ -65,7 +65,7 @@ By accessing this repository, you acknowledge that you have read and understood 
 - [NoSQL](https://github.com/yamilt351/nerdoteca/tree/main/nosql) 
   - [Bases de datos NoSQL](https://github.com/yamilt351/nerdoteca/blob/main/nosql/Bases%20de%20datos%20NoSQL-%20Caracteristicas.pdf)
   - [Bases de datos NoSQL Introduccion](https://github.com/yamilt351/nerdoteca/blob/main/nosql/Bases%20de%20datos%20NoSQL-%20Introduccion.pdf) 
-  - [Utilidad y funcionamiento de las bases de datos NoSQL](#Utilidad-y-funcionamiento-de-las-bases-de-datos-NoSQL)
+  - [Utilidad y funcionamiento de las bases de datos NoSQL](https://github.com/yamilt351/nerdoteca/blob/main/nosql/Utilidad%20y%20funcionamiento%20de%20las%20bases%20de%20datos%20NoSQL.pdf)
 
 - [Protocolos Web](#Protocolos-Web) 
   - [PROTOCOLOS TCP/IP DE INTERNET](#PROTOCOLOS-TCP-IP-DE-INTERNET)
