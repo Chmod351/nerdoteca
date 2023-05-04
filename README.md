@@ -29,7 +29,7 @@ By accessing this repository, you acknowledge that you have read and understood 
   - [Introduction to Algoritms](https://github.com/yamilt351/nerdoteca/blob/main/algoritmos/Cormen%20-%20Introduction%20to%20Algorithms%20-%202nd%20ed.pdf) 
   - [The Art of Computers Programming](https://github.com/yamilt351/nerdoteca/blob/main/algoritmos/The%20Art%20of%20Computer%20Programming%20-%20Vol%201.pdf)
 
-- [Programación Orientada a Objetos](#Programación-Orientada-a-Objetos) 
+- [Programación Orientada a Objetos](https://github.com/yamilt351/nerdoteca/tree/main/POO) 
   - [Introduccion a la Programacion Orientada a Objetos](#Introduccion-a-la-Programacion-Orientada-a-Objetos)
   - [introducion a la progrmacion orientado a objetos](#introducion-a-la-progrmacion-orientado-a-objetos)
 
