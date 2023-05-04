@@ -54,7 +54,7 @@ By accessing this repository, you acknowledge that you have read and understood 
   - [JavaScript Programmers Reference](https://github.com/yamilt351/nerdoteca/blob/main/js/JavaScript%20Programmers%20Reference%20Wrox.pdf)
   - [Essential Javascript A Javascript Tutorial](#Essential-Javascript-A-Javascript-Tutorial)
 
-- [SQL](#SQL) 
+- [SQL](https://github.com/yamilt351/nerdoteca/tree/main/sql) 
   - [Curso de SQL](#Curso-de-SQL) 
   - [Curso SQL](#Curso-SQL) 
   - [ManualPracticoSQL](#ManualPracticoSQL)
