@@ -84,7 +84,7 @@ By accessing this repository, you acknowledge that you have read and understood 
 
   - [UnitTesting](#UnitTesting)
   - [UnitTest](https://github.com/yamilt351/nerdoteca/blob/main/test/16_UnitTest.pdf)
-  - [IntegrationTest](#IntegrationTest)
+  - [IntegrationTest](https://github.com/yamilt351/nerdoteca/blob/main/test/17_IntegrationTest.pdf)
   - [Integration](#Integration)
   - [Software Testing Automation](#Software-Testing-Automation)
 
