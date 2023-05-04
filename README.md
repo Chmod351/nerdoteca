@@ -49,9 +49,9 @@ By accessing this repository, you acknowledge that you have read and understood 
 
 - [Javascript](https://github.com/yamilt351/nerdoteca/tree/main/js) 
   - [JavaScript Quick Reference Card](https://github.com/yamilt351/nerdoteca/blob/main/js/2009%20-%20JavaScript%20Quick%20Reference%20Card%20v1.03.pdf)
-  - [Javascript Guía Rápida](https://github.com/yamilt351/nerdoteca/blob/main/js/JavaScript%20Programmers%20Reference%20Wrox.pdf) 
+  - [Javascript Guía Rápida](#Javascript-Guía-Rápida) 
   - [intro-js](#intro-js)
-  - [JavaScript Programmers Reference](#JavaScript-Programmers-Reference)
+  - [JavaScript Programmers Reference](https://github.com/yamilt351/nerdoteca/blob/main/js/JavaScript%20Programmers%20Reference%20Wrox.pdf)
   - [Essential Javascript A Javascript Tutorial](#Essential-Javascript-A-Javascript-Tutorial)
 
 - [SQL](#SQL) 
