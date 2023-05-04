@@ -21,7 +21,7 @@ By accessing this repository, you acknowledge that you have read and understood 
 
   - [Introduccion a la programacion](#Introduccion-a-la-programacion)
   - [Fundamentos de la programacion](#Fundamentos-de-la-programacion)
-  - [Analisis y diseño - sexta edicion -KENDALL](#Analisis-y-diseño)
+  - [Analisis y diseño - sexta edicion -KENDALL](https://github.com/yamilt351/nerdoteca/blob/main/fundamentos%20de%20la%20programacion/Analisis%20y%20dise%C3%B1o%20-%20sexta%20edicion%20-KENDALL.pdf)
   - [Structure and Interpretation of Computer Programs 2nd ed H Abelson Sussman](#Structure-and-Interpretation-of-Computer-Programs-2nd-ed_-_H-Abelson-G-Sussman)
   - [Beginning SharePoint 2010 Development](#Beginning-SharePoint-2010-Development)
 
