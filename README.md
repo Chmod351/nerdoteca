@@ -56,7 +56,7 @@ By accessing this repository, you acknowledge that you have read and understood 
 
 - [SQL](https://github.com/yamilt351/nerdoteca/tree/main/sql) 
   - [Curso de SQL](https://github.com/yamilt351/nerdoteca/blob/main/sql/Curso%20de%20SQL.pdf) 
-  - [Curso SQL](#Curso-SQL) 
+  - [Curso SQL](https://github.com/yamilt351/nerdoteca/blob/main/sql/Curso_SQL.pdf) 
   - [ManualPracticoSQL](#ManualPracticoSQL)
   - [bbdd-nosql-wp-acens](#bbdd-nosql-wp-acens)
   - [Dinámica del Modelo Relacional. El lenguaje SQL](#Dinámica-del-Modelo-Relacional-El-lenguaje-SQL)
