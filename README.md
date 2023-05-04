@@ -86,7 +86,7 @@ By accessing this repository, you acknowledge that you have read and understood 
   - [UnitTest](https://github.com/yamilt351/nerdoteca/blob/main/test/16_UnitTest.pdf)
   - [IntegrationTest](https://github.com/yamilt351/nerdoteca/blob/main/test/17_IntegrationTest.pdf)
   - [Integration](#Integration)
-  - [Software Testing Automation](#Software-Testing-Automation)
+  - [Software Testing Automation](https://github.com/yamilt351/nerdoteca/blob/main/test/Software-Testing-Automation.pdf)
 
 - [Escalabilidad](#Escalabilidad)
   - [escalabilidad y optimizacion](#escalabilidad-y-optimizacion)
