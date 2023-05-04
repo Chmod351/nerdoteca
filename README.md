@@ -26,7 +26,7 @@ By accessing this repository, you acknowledge that you have read and understood 
   - [Beginning SharePoint 2010 Development](https://github.com/yamilt351/nerdoteca/blob/main/fundamentos%20de%20la%20programacion/Beginning.SharePoint.2010.Development.pdf)
 
 - [Algoritmos](https://github.com/yamilt351/nerdoteca/tree/main/algoritmos) 
-  - [Introduction to Algoritms](#Introduction-to-Algoritms) 
+  - [Introduction to Algoritms](https://github.com/yamilt351/nerdoteca/blob/main/algoritmos/Cormen%20-%20Introduction%20to%20Algorithms%20-%202nd%20ed.pdf) 
   - [The Art of Computers Programming](#The-Art-of-Computers-Programming])
 
 - [Programación Orientada a Objetos](#Programación-Orientada-a-Objetos) 
