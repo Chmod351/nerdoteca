@@ -16,7 +16,7 @@ By accessing this repository, you acknowledge that you have read and understood 
 
 - [HTML CSS](https://github.com/yamilt351/nerdoteca/tree/main/html%20y%20css) 
   - [html css](https://github.com/yamilt351/nerdoteca/blob/main/html%20y%20css/html-y-css.pdf) 
-  - [css](#css)
+  - [css](https://github.com/yamilt351/nerdoteca/blob/main/html%20y%20css/wsu-css-cheat-sheet-gdocs.pdf)
 - [Fundamentos de la programacion](#Fundamentos-de-la-programacion)
 
   - [Introduccion a la programacion](#Introduccion-a-la-programacion)
