@@ -31,9 +31,9 @@ By accessing this repository, you acknowledge that you have read and understood 
 
 - [Programación Orientada a Objetos](https://github.com/yamilt351/nerdoteca/tree/main/POO) 
   - [Introduccion a la Programacion Orientada a Objetos](https://github.com/yamilt351/nerdoteca/blob/main/POO/Introduccion%20a%20la%20Programacion%20Orientada%20a%20Objetos.pdf)
-  - [introducion a la progrmacion orientado a objetos](#introducion-a-la-progrmacion-orientado-a-objetos)
+  - [Teoria sintactico gramatical  de objetos](https://raw.githubusercontent.com/yamilt351/nerdoteca/main/POO/Teoria%20sintacticogramatical%20de%20objetos%20-%20Bahit.pdf)
 
-- [Patrones de Diseño](#Patrones-de-Diseño)
+- [Patrones de Diseño](https://github.com/yamilt351/nerdoteca/tree/main/patrones%20de%20dise%C3%B1o)
   - [Design Patterns Elements of Reusable Object Oriented Software](#Design_Patterns-Elements-of-Reusable-Object-Oriented-Software) 
   - [Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides-Design Patterns\_ Elements of Reusable Object-Oriented Software -Addison-Wesley Professional (1994)](#Design-Patterns-Elements-of-Reusable-Object-Oriented-Software)
 
