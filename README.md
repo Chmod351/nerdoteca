@@ -20,7 +20,7 @@ By accessing this repository, you acknowledge that you have read and understood 
 - [Fundamentos de la programacion](https://github.com/yamilt351/nerdoteca/tree/main/fundamentos%20de%20la%20programacion)
 
   - [Introduccion a la programacion](https://github.com/yamilt351/nerdoteca/blob/main/fundamentos%20de%20la%20programacion/IntroduccionALaProgramacion.pdf)
-  - [Fundamentos de la programacion](#Fundamentos-de-la-programacion)
+  - [Fundamentos de la programacion](https://github.com/yamilt351/nerdoteca/blob/main/fundamentos%20de%20la%20programacion/Fundamentos%20de%20programacion.pdf)
   - [Analisis y diseño - sexta edicion -KENDALL](https://github.com/yamilt351/nerdoteca/blob/main/fundamentos%20de%20la%20programacion/Analisis%20y%20dise%C3%B1o%20-%20sexta%20edicion%20-KENDALL.pdf)
   - [Structure and Interpretation of Computer Programs 2nd ed H Abelson Sussman](#Structure-and-Interpretation-of-Computer-Programs-2nd-ed_-_H-Abelson-G-Sussman)
   - [Beginning SharePoint 2010 Development](https://github.com/yamilt351/nerdoteca/blob/main/fundamentos%20de%20la%20programacion/Beginning.SharePoint.2010.Development.pdf)
