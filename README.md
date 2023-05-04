@@ -96,7 +96,7 @@ By accessing this repository, you acknowledge that you have read and understood 
 
 - [Introduccion a la Arquitectura de Software](https://github.com/yamilt351/nerdoteca/tree/main/arquitectura%20de%20software) 
   - [Unidad 1](https://github.com/yamilt351/nerdoteca/blob/main/arquitectura%20de%20software/Unidad_1.pdf) 
-  - [Unidad 2](#Unidad-2) 
+  - [Unidad 2](https://github.com/yamilt351/nerdoteca/blob/main/arquitectura%20de%20software/Unidad_2.pdf) 
   - [Unidad 3](#Unidad-3) 
   - [Unidad 4](#Unidad-4) 
   - [Unidad 5](#Unidad-5) 
