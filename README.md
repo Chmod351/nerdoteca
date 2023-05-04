@@ -88,7 +88,7 @@ By accessing this repository, you acknowledge that you have read and understood 
   - [Integration](https://github.com/yamilt351/nerdoteca/blob/main/test/integration.pdf)
   - [Software Testing Automation](https://github.com/yamilt351/nerdoteca/blob/main/test/Software-Testing-Automation.pdf)
 
-- [Escalabilidad](#Escalabilidad)
+- [Escalabilidad](https://github.com/yamilt351/nerdoteca/tree/main/escalabilidad)
   - [escalabilidad y optimizacion](#escalabilidad-y-optimizacion)
 
 - [Microservicios](#Microservicios)
