@@ -62,7 +62,7 @@ By accessing this repository, you acknowledge that you have read and understood 
   - [Dinámica del Modelo Relacional. El lenguaje SQL](https://github.com/yamilt351/nerdoteca/blob/main/sql/Din%C3%A1mica%20del%20Modelo%20Relacional.%0AEl%20lenguaje%20SQL.pdf)
   - [Inside Microsoft SQL Server 2008 T-SQL Programming](https://github.com/yamilt351/nerdoteca/blob/main/sql/Inside%20Microsoft%20SQL%20Server%202008%20T-SQL%20Programming.pdf)
 
-- [NoSQL](#NoSQL) 
+- [NoSQL](https://github.com/yamilt351/nerdoteca/tree/main/nosql) 
   - [Bases de datos NoSQL](#Bases-de-datos-NoSQL)
   - [Bases de datos NoSQL Introduccion](#Bases-de-datos-NoSQL-Introduccion) 
   - [Utilidad y funcionamiento de las bases de datos NoSQL](#Utilidad-y-funcionamiento-de-las-bases-de-datos-NoSQL)
