@@ -75,7 +75,7 @@ By accessing this repository, you acknowledge that you have read and understood 
   - [Capitulo 4 XML](https://github.com/yamilt351/nerdoteca/blob/main/protocolos%20web/04%20Capitulo%204%20XML.pdf)
   - [Capitulo 5 Protocolo HTTP](https://github.com/yamilt351/nerdoteca/blob/main/protocolos%20web/05%20Capitulo%205%20Protocolo%20HTTP.pdf) 
   - [Capitulo 6 SOAP](https://github.com/yamilt351/nerdoteca/blob/main/protocolos%20web/06%20Capitulo%206%20SOAP.pdf)
-  - [Capitulo 7 Conceptos de seguridad.](#Capitulo-7) 
+  - [Capitulo 7 Conceptos de seguridad.](https://github.com/yamilt351/nerdoteca/blob/main/protocolos%20web/07%20Capitulo%207%20Conceptos%20de%20seguridad.pdf) 
   - [Capitulo 8 Introduccion a SAML](#Capitulo-8)
   - [Capitulo 9 SAML](#Capitulo-9) 
   - [Capitulo 10 Seguridad en SAML](#Capitulo-10)
