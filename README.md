@@ -25,7 +25,7 @@ By accessing this repository, you acknowledge that you have read and understood 
   - [Structure and Interpretation of Computer Programs 2nd ed H Abelson Sussman](https://github.com/yamilt351/nerdoteca/blob/main/fundamentos%20de%20la%20programacion/Structure_and_Interpretation_of_Computer_Programs_2nd_ed._-_H._Abelson%2C_G._Sussman_MIT%2C1996_WW.pdf)
   - [Beginning SharePoint 2010 Development](https://github.com/yamilt351/nerdoteca/blob/main/fundamentos%20de%20la%20programacion/Beginning.SharePoint.2010.Development.pdf)
 
-- [Algoritmos](#Algoritmos) 
+- [Algoritmos](https://github.com/yamilt351/nerdoteca/tree/main/algoritmos) 
   - [Introduction to Algoritms](#Introduction-to-Algoritms) 
   - [The Art of Computers Programming](#The-Art-of-Computers-Programming])
 
