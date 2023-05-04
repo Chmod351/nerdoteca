@@ -34,7 +34,7 @@ By accessing this repository, you acknowledge that you have read and understood 
   - [Teoria sintactico gramatical  de objetos](https://raw.githubusercontent.com/yamilt351/nerdoteca/main/POO/Teoria%20sintacticogramatical%20de%20objetos%20-%20Bahit.pdf)
 
 - [Patrones de Diseño](https://github.com/yamilt351/nerdoteca/tree/main/patrones%20de%20dise%C3%B1o)
-  - [Design Patterns Elements of Reusable Object Oriented Software](#Design_Patterns-Elements-of-Reusable-Object-Oriented-Software) 
+  - [Design Patterns Elements of Reusable Object Oriented Software](https://raw.githubusercontent.com/yamilt351/nerdoteca/main/patrones%20de%20dise%C3%B1o/Design_Patterns_-_Elements_of_Reusable_Object-Oriented_Software.pdf) 
   - [Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides-Design Patterns\_ Elements of Reusable Object-Oriented Software -Addison-Wesley Professional (1994)](#Design-Patterns-Elements-of-Reusable-Object-Oriented-Software)
 
 - [S-O-L-I-D](#S-O-L-I-D)
