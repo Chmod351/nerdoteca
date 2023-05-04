@@ -48,7 +48,7 @@ By accessing this repository, you acknowledge that you have read and understood 
 - [Compilers - Principles Techniques and Tools](#Compilers-Principles-Techniques-and-Tools)
 
 - [Javascript](https://github.com/yamilt351/nerdoteca/tree/main/js) 
-  - [JavaScript Quick Reference Card](#JavaScript-Quick-Reference-Card)
+  - [JavaScript Quick Reference Card](https://github.com/yamilt351/nerdoteca/blob/main/js/2009%20-%20JavaScript%20Quick%20Reference%20Card%20v1.03.pdf)
   - [Javascript Guía Rápida](#Javascript-Guía-Rápida) 
   - [intro-js](#intro-js)
   - [JavaScript Programmers Reference](#JavaScript-Programmers-Reference)
