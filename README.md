@@ -15,7 +15,7 @@ By accessing this repository, you acknowledge that you have read and understood 
 # Books
 
 - [HTML CSS](https://github.com/yamilt351/nerdoteca/tree/main/html%20y%20css) 
-  - [html css](#html-css) 
+  - [html css](https://github.com/yamilt351/nerdoteca/blob/main/html%20y%20css/html-y-css.pdf) 
   - [css](#css)
 - [Fundamentos de la programacion](#Fundamentos-de-la-programacion)
 
