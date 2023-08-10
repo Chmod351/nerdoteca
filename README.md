@@ -1,9 +1,19 @@
 # Road Map 
+
 - [RoadMap General view](https://roadmap.sh/roadmaps)
+- [Javascript](https://roadmap.sh/javascript)
+- [Typescript](https://roadmap.sh/typescript)
    - [Frontend](https://roadmap.sh/frontend)
+     - [UI/UX](https://roadmap.sh/ux-design)
+     - [React Developer](https://roadmap.sh/react)
+     - [Angular](https://roadmap.sh/angular)
+     - [Vue](https://roadmap.sh/vue)
    - [Backend](https://roadmap.sh/backend)
+     - [Node](https://roadmap.sh/nodejs)
+     - [Mongo](https://roadmap.sh/mongodb) 
+     - [Postgre](https://roadmap.sh/postgresql-dba)
+     - [Docker](https://roadmap.sh/docker)
    - [Fullstack](https://roadmap.sh/full-stack)
-   - 
 # Books
 
 - [HTML CSS](https://github.com/yamilt351/nerdoteca/tree/main/html%20y%20css)
