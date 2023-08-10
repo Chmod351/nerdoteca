@@ -1,17 +1,9 @@
-# Disclaimer Legal:
-
-```
-The content of this GitHub repository is solely for educational and informational purposes. The repository contains books in PDF format that have been sourced from the internet. As the owner of this repository, I hereby declare that I am not responsible for any misuse of the information or materials contained in this repository.
-
-By accessing and using this repository, you agree that you are solely responsible for any consequences that may arise from the use of the materials contained herein. You also agree to hold harmless and indemnify me from any claims, damages, or losses that may arise as a result of your use of this repository.
-
-Furthermore, the inclusion of any book or material in this repository does not constitute an endorsement or promotion of its contents by me. The materials included in this repository are the sole responsibility of their respective authors, publishers, or copyright holders.
-
-If you have any questions or concerns regarding the content of this repository, please contact me directly.
-
-By accessing this repository, you acknowledge that you have read and understood this disclaimer, and that you agree to be bound by its terms and conditions.
-```
-
+# Road Map 
+- [RoadMap General view](https://roadmap.sh/roadmaps)
+   - [Frontend](https://roadmap.sh/frontend)
+   - [Backend](https://roadmap.sh/backend)
+   - [Fullstack](https://roadmap.sh/full-stack)
+   - 
 # Books
 
 - [HTML CSS](https://github.com/yamilt351/nerdoteca/tree/main/html%20y%20css)
