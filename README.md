@@ -105,16 +105,10 @@
 - [Microservicios](https://github.com/yamilt351/nerdoteca/tree/main/microservices)
   - [microservices-on-aws](https://github.com/yamilt351/nerdoteca/blob/main/microservices/microservices-on-aws.pdf)
 
-# Plus
-
-- [Introduccion a la Arquitectura de Software](https://github.com/yamilt351/nerdoteca/tree/main/arquitectura%20de%20software)
-  - [Unidad 1](https://github.com/yamilt351/nerdoteca/blob/main/arquitectura%20de%20software/Unidad_1.pdf)
-  - [Unidad 2](https://github.com/yamilt351/nerdoteca/blob/main/arquitectura%20de%20software/Unidad_2.pdf)
-  - [Unidad 3](https://github.com/yamilt351/nerdoteca/blob/main/arquitectura%20de%20software/Unidad_3.pdf)
-  - [Unidad 4](https://github.com/yamilt351/nerdoteca/blob/main/arquitectura%20de%20software/Unidad_4.pdf)
-  - [Unidad 5](https://github.com/yamilt351/nerdoteca/blob/main/arquitectura%20de%20software/Unidad_5.pdf)
-  - [Unidad 6](https://github.com/yamilt351/nerdoteca/blob/main/arquitectura%20de%20software/Unidad_6.pdf)
-  - [Unidad 7](https://github.com/yamilt351/nerdoteca/blob/main/arquitectura%20de%20software/Unidad_7.pdf)
-  - [Unidad 8](https://github.com/yamilt351/nerdoteca/blob/main/arquitectura%20de%20software/Unidad_8.pdf)
-  - [Unidad 9](https://github.com/yamilt351/nerdoteca/blob/main/arquitectura%20de%20software/Unidad_9.pdf)
-  - [Unidad 10](https://github.com/yamilt351/nerdoteca/blob/main/arquitectura%20de%20software/Unidad_10.pdf)
+#Contributing
+- To contribute to this project, you can do so in various ways:
+- You can create your own roadmap by linking free books and resources, using the roadmap page as a base.
+- You can suggest new books (make sure they don't already exist in the repository).
+- You can request to replace a book, in which case you should provide a replacement.
+- You can correct spelling errors.
+- Any type of contribution is welcome.
