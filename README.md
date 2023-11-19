@@ -58,9 +58,14 @@ Esta es una pagina que te muestra un roadmap para que puedas seguir un camino y 
   - [IntegrationTest](https://github.com/yamilt351/nerdoteca/blob/main/test/17_IntegrationTest.pdf)
   - [Software Testing Automation](https://github.com/yamilt351/nerdoteca/blob/main/test/Software-Testing-Automation.pdf)
 
+# Recursos gratuitos
+- [Freecodecamp](https://www.freecodecamp.org/)
+- [w3Schools](https://www.w3schools.com/)
+- [developer-mozilla (MDN)](https://developer.mozilla.org/en-US/docs/Learn)
+- [Openbootcamp](https://www.youtube.com/@OpenBootcamp)
 
 
-###  Contributing
+# Contributing
 - To contribute to this project, you can do so in various ways:
 - You can create your own roadmap by linking free books and resources, using the roadmap page as a base.
 - You can suggest new books (make sure they don't already exist in the repository).
