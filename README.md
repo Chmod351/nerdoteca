@@ -64,6 +64,10 @@ Esta es una pagina que te muestra un roadmap para que puedas seguir un camino y 
 - [developer-mozilla (MDN)](https://developer.mozilla.org/en-US/docs/Learn)
 - [Openbootcamp](https://www.youtube.com/@OpenBootcamp)
 
+# Comunidades de discord en español
+- [Dincy (Gonzy)](https://discord.gg/ayBBbk4zUV)
+- [FrontendCafe](https://discord.gg/frontendcafe)
+- [Sobrecodigo](https://discord.gg/54YJrDysMs)
 
 # Contributing
 - To contribute to this project, you can do so in various ways:
